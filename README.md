@@ -80,7 +80,24 @@ To access your repository, make sure that I am added as a collaborator.
     ![alt text](images/11_manage_access1.png)
     ![alt text](images/11_manage_access2.png)
     ![alt text](images/11_manage_access3.png)
-    Make sure to inform your instructor once I have been added. Broken links may lead to non-submission, and a grade of INC.
+    Make sure to inform your instructor once I have been added. Broken links may be interpreted as *did not submit*, and a grade of INC.
+
+### 🏷️ Naming Convention
+Proper file naming convention must be observed. Folders must be named and structured properly. For example:
+```
+AgdonFMP_CS1304_CS131Activities/
+├── Laboratory Activity 1/
+│   ├── lab1_item1.cpp
+|   ├── lab1_item2.cpp
+│   └── lab1_item3.cpp
+├── Laboratory Activity 2/
+│   └── lab2.cpp
+├── Laboratory Activity 3/
+│   ├── lab3_item1.cpp
+|   ├── lab3_item2.cpp
+│   └── lab3_item3.cpp
+└── README.md
+```
 
 ### 💌 Submitting your links
 Submit your links in this spreadsheet: [CS 131 - DSA Assessment Tasks](https://docs.google.com/spreadsheets/d/1GQvt-WVL9J6XRgwtogSUmxlcWvufSozOAB-nedM1MHg/edit?usp=sharing). Editing the spreadsheet will be disabled on **August 2, 2025, 3:00pm** 
