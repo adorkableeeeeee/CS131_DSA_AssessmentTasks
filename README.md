@@ -80,9 +80,11 @@ To access your repository, make sure that I am added as a collaborator.
     ![alt text](images/11_manage_access1.png)
     ![alt text](images/11_manage_access2.png)
     ![alt text](images/11_manage_access3.png)
-    Make sure to inform your instructor once I have been added.
+    Make sure to inform your instructor once I have been added. Broken links may lead to non-submission, and a grade of INC.
 
 ### 💌 Submitting your links
-Submit your links in this spreadsheet: [CS 131 - DSA Assessment Tasks](https://docs.google.com/spreadsheets/d/1GQvt-WVL9J6XRgwtogSUmxlcWvufSozOAB-nedM1MHg/edit?usp=sharing). Editing the spreadsheet will be disabled on **August 2, 2025, 3:00pm**
+Submit your links in this spreadsheet: [CS 131 - DSA Assessment Tasks](https://docs.google.com/spreadsheets/d/1GQvt-WVL9J6XRgwtogSUmxlcWvufSozOAB-nedM1MHg/edit?usp=sharing). Editing the spreadsheet will be disabled on **August 2, 2025, 3:00pm** 
+
+***No link means no submission.***
 
 PS: Follow me on GitHub: [marieemoiselle](https://github.com/marieemoiselle) ♡
